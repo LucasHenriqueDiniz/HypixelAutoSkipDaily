@@ -12,7 +12,8 @@
 
 // @homepageURL  https://github.com/LucasHenriqueDiniz/HypixelAutoSkipDaily
 // @supportURL   https://github.com/LucasHenriqueDiniz/HypixelAutoSkipDaily/issues
-// @downloadURL  
+// @downloadURL  https://github.com/LucasHenriqueDiniz/HypixelAutoSkipDaily/raw/main/HypixelAutoSkipDaily.user.js
+// @updateURL    https://github.com/LucasHenriqueDiniz/HypixelAutoSkipDaily/raw/main/HypixelAutoSkipDaily.user.js
 
 // ==/UserScript==
     var $ = window.jQuery;
