@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto skip video for ranked users
 // @namespace    https://github.com/LucasHenriqueDiniz
-// @version      0.1
+// @version      0.11
 // @description  auto skip :>
 // @author       Lucas Diniz
 
